@@ -1,2 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 A git repository is created.  Otherwise, it is not a repository yet. 
+
+git add
+git init
+git status
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer:  Stagin area serves as a media for files to be committed from the working directory.  
+
+I am trying to do something new. 
