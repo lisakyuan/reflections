@@ -9,3 +9,11 @@ How is the staging area different from the working directory and the repository?
 Answer:  Stagin area serves as a media for files to be committed from the working directory.  
 
 I am trying to do something new. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Use git diff --stage to check if the difference between the staged file and the last commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When to create a different versions (experimental, lite version, different language versions) of the program but keep the orignial work seperately.  With the branches,  one can keep tracking the two versions. 
