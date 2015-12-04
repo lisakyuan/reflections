@@ -5,3 +5,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I might not want to publish my changes I made in the local computer. 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is to copy other people's repository to your own git hub, then you can clone it to your local computer. 
+Clone is to copy other people's repository to your local computer
+Branch is to build an alternative route from the main project, and it does not impact the main project's performance. 
+
